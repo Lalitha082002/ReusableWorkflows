@@ -6,6 +6,6 @@ on:
 
 jobs:
   run-reusable-test:
-    uses: ./.github/workflows/reusableworkflow.yml
+    uses: ./.github/workflows/resuableworkflow.yml
     with:
       python-version: '3.11'
